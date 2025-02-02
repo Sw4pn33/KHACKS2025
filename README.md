@@ -31,18 +31,10 @@ A blockchain-based system for transparent and secure supply chain verification u
 
 ---
 
-## Architecture
-
-<p align="center">  
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/architecturefinal.png?raw=true">  
-</p>
-
----
-
 ## Supply Chain Flow
 
 <p align="center">  
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/flow.png" width="300">  
+    <img src="Manufacturer.png" width="300">  
 </p>
 
 ---
