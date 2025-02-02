@@ -34,7 +34,7 @@ A blockchain-based system for transparent and secure supply chain verification u
 ## Supply Chain Flow
 
 <p align="center">  
-    <img src="Manufacturer.png" width="300">  
+    <img src="Manufacturer.png" width="500">  
 </p>
 
 ---
