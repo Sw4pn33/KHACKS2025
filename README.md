@@ -49,7 +49,7 @@ A blockchain-based system for transparent and secure supply chain verification u
 ### Steps
 Clone the repository:
 ```bash
-git clone https://github.com/rishav4101/eth-supplychain-dapp.git && cd eth-supplychain-dapp
+git clone https://github.com/Sw4pn33/KHACKS2025.git && cd KHACKS2025
 ```
 
 Install dependencies:
