@@ -1,7 +1,7 @@
 # Blockchain-Based Supply Chain Verification System
 
 <p align="center">
-  <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/logo.png" width="200">
+  <img src="logo.png" width="200">
 </p>
 
 ## Overview
